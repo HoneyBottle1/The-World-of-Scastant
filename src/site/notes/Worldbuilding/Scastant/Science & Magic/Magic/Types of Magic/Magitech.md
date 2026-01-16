@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/magic/types-of-magic/magitech/","created":"2025-12-30T11:04:18.920+01:00","updated":"2026-01-16T13:22:41.439+01:00"}
+---
+
+Magitech is a relatively new type of magic on the continental scale. Unlike other Magic types, it was created mostly by mankind, [[Worldbuilding/Scastant/General Overview#The Concepts\|Magic]] never having intended for it to exist. For many magic purists, and for [[Worldbuilding/Scastant/Geography/Regions/Gredan Sylvarsen/History#The Awakening of Gaanlion\|Gaanlion]], as an extension of the [[Worldbuilding/Scastant/General Overview#The Concepts\|Earth]], this Magitech is an insult to the beauty and art that is Magic, as it is but flowing Magic being condensed through machines and technology, rendering the need for a wielder mostly useless.
+
+Magitech is an innovation that was made possible from the genius of the [[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Government#The Wonderbit Corporation\|Wonderbit Corporation]], along with the financial and political support of the [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Everseen Council - Overview\|Everseen Council]]. As it was created, it received massive positive feedback from the general population, its use quickly growing in the region of [[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Duskenvar - Overview\|Duskenvar]], but also in other countries.
+
+However, the increased use of this impure Magic causes great strain on the [[Worldbuilding/Scastant/General Overview#The Concepts\|Earth]], and therefore withers the land surrounding the largest Magitech usage areas. This effect is now known as the [[Worldbuilding/Scastant/Geography/Regions/Duskenvar/History#The Withering of Duskenvar\|Withering of Duskenvar]].

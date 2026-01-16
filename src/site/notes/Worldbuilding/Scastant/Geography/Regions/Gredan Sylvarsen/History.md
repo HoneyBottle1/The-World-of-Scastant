@@ -1,0 +1,8 @@
+---
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/gredan-sylvarsen/history/","created":"2025-12-30T11:13:38.823+01:00","updated":"2026-01-16T12:31:23.115+01:00"}
+---
+
+# The Awakening of Gaanlion
+
+Few sources exist on this matter, for most have been lost to time, and the handful that remain to this day all stem from word of mouth and legends. As the story goes, it is believed Gaanlion awoke in the early days of the world. For the nomadic tribes of the Gredan Sylvarsen especially, Gaanlion is the eldest being in Scastant. It would have been the first tree Life ever created, long before any other living being existed, and long before Mankind ever walked the Earth. It would have fed on the immeasurable amounts of pure Magic flowing through the lands to survive and thrive, allowing the already large beech tree to expand, both in size and in wisdom. Indeed, the ever-expanding tree, at some point in its long life, gained sentience and therefore became able to wield Magic consciously.  
+And its wisdom grew ever on as Time passed. But in its solitude, the tree developed a power of creation through its roots, deeply anchored in the Earth, and derived directly from the powers of Life. With this ability of creation, Gaanlion soon bore new trees and vegetation to the region to keep him company. And through the eons to this day, the Tree kept at it, essentially creating the dense, magic-imbued, whimsical we now know as the Gredan Sylvarsen.  

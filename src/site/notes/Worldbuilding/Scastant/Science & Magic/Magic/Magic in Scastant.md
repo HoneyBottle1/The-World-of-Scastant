@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/magic/magic-in-scastant/","created":"2025-12-30T11:04:07.102+01:00","updated":"2026-01-16T13:23:18.499+01:00"}
+---
+
+As explained briefly in the [[Worldbuilding/Scastant/General Overview#The Concepts\|General Overview]] of this world, Magic is believed to be the oldest concept in the world. Eons ago, Magic settled deep within the Earth, slowly imbuing the lands with Its powers. From that time onward, each of Magic's abilities, known as Frequencies flowed freely in all that lived. These Frequencies were [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Animation\|Animation]], [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Chaos Magic\|Chaos Magic]], [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Conjuration\|Conjuration]], [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Illusion Magic\|Illusion Magic]], [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Infernal Magic\|Infernal Magic]]?, [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Magitech\|Magitech]], [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Nature Magic\|Nature Magic]], [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Necromancy\|Necromancy]], [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Shadow Magic\|Shadow Magic]], and [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Time Magic\|Time Magic]].
+To understand Magic and how it impacted early humans' lives, one must first understand the concept of Resonance. 
+# Resonance
+Resonance is a magical ability found in every sentient living being on the [[Worldbuilding/Scastant/General Overview\|Earth]]. It can be assimilated to a conduit, which allows one to call on one specific Frequency, and channel it through one's body for different purposes. 
+This feat applies to all beings granted sentience by Life, as only active thought can channel Magic with intent. Resonance is also quite unstable when it comes to channeling other Frequencies. So much so, that inmost cases, channeling other Frequencies can cause accidents, damages, and even major cell damage. 
+Moreover, different Frequencies' Resonances tend to interact with one another in unexpected ways that are usually dangerous. Although a few individuals with different Resonances might not be problematic at all, the issue arises when population grows, and with it, Frequency diversity. Indeed, Frequency diversity on larger scaler can be the cause of misfire of spells, weather anomalies, and even terrible and cataclysmic events, which can cause a city's collapse in the blink of an eye. This has been proven to happen in very early history as the first cities developed, when Magic was not yet rightly understood. 
+
+
+# Prevalence of Magic Users
+
+# Requirements of using Magic
