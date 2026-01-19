@@ -1,7 +1,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Basic-Auth: "guest:temp!HPA admin:scastantworldbuilding_HPA"
+    Basic-Auth = "guest:temp!HPA admin:scastantworldbuilding_HPA"
 
 [build]
   publish = "dist"
