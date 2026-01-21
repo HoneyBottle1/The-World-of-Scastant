@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/magic/types-of-magic/necromancy/","created":"2025-12-30T11:04:18.920+01:00","updated":"2026-01-16T13:22:52.083+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/magic/types-of-magic/necromancy/","tags":["Brantimek_Empire","Concept"],"created":"2025-12-30T11:04:18.920+01:00","updated":"2026-01-17T16:53:10.462+01:00"}
 ---
 
 Necromancy governs death’s aftermath, not death itself. It preserves, questions, or reanimates what has already crossed the threshold. The dead are not offended by this, but the living are.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/vangincouisa-change/culture/family/","created":"2025-12-31T00:09:23.041+01:00","updated":"2026-01-16T13:11:05.851+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/vangincouisa-change/culture/family/","tags":["Vangincouisa"],"created":"2025-12-31T00:09:23.041+01:00","updated":"2026-01-17T15:07:26.439+01:00"}
 ---
 
 Typical age of marriage:

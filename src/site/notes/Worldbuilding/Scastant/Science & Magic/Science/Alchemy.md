@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/science/alchemy/","created":"2025-12-30T11:05:21.324+01:00","updated":"2026-01-16T13:23:33.295+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/science/alchemy/","tags":["Homedons_Northern_Islands","Notion"],"created":"2025-12-30T11:05:21.324+01:00","updated":"2026-01-17T16:54:09.862+01:00"}
 ---
 
 # Overview

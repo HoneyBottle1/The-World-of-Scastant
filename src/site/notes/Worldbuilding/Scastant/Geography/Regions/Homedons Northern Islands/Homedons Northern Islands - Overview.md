@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/homedons-northern-islands/homedons-northern-islands-overview/","created":"2025-12-30T11:12:39.494+01:00","updated":"2026-01-16T12:33:44.644+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/homedons-northern-islands/homedons-northern-islands-overview/","tags":["Homedons_Northern_Islands","Region_Overview"],"created":"2025-12-30T11:12:39.494+01:00","updated":"2026-01-19T14:56:32.052+01:00"}
 ---
 
 Ruler: 
@@ -18,6 +18,7 @@ Motto:
 Currency:
 Religion : 
 
+The main cities of the Homedons Northern Islands are [[Worldbuilding/Scastant/Geography/Regions/Homedons Northern Islands/Environment/Cities & Towns/Virdenshølm/Overview\|Virdenshølm]], [[Worldbuilding/Scastant/Geography/Regions/Homedons Northern Islands/Environment/Cities & Towns/Bjargvorðr/Overview\|Bjargvorðr]], and [[Worldbuilding/Scastant/Geography/Regions/Homedons Northern Islands/Environment/Cities & Towns/Sævar/Overview\|Sævar]]. Smaller, but important towns and settlements include Éltjad, Veiðrvágr, and Steinnausa
 [Overview]
 
 | Island               | Coastlines  | Area                     |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/magic/types-of-magic/shadow-magic/","created":"2025-12-30T11:04:18.920+01:00","updated":"2026-01-16T13:22:56.439+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/magic/types-of-magic/shadow-magic/","tags":["Vangincouisa","Concept"],"created":"2025-12-30T11:04:18.920+01:00","updated":"2026-01-17T16:53:17.740+01:00"}
 ---
 
 Shadow magic manipulates absence, be that of light, certainty, or attention. It hides, divides, and unsettles without ever fully revealing itself. Practitioners often forget whether they are concealed… or simply unseen by choice.

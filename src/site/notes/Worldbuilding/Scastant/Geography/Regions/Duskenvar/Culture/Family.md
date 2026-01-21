@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/duskenvar/culture/family/","created":"2025-12-31T00:08:45.888+01:00","updated":"2026-01-16T12:19:31.785+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/duskenvar/culture/family/","tags":["Duskenvar"],"created":"2025-12-31T00:08:45.888+01:00","updated":"2026-01-17T14:14:54.984+01:00"}
 ---
 
 Typical age of marriage:

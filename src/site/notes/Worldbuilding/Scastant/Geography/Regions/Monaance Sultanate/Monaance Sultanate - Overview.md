@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/monaance-sultanate/monaance-sultanate-overview/","created":"2025-12-30T11:13:32.293+01:00","updated":"2026-01-16T12:38:44.556+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/monaance-sultanate/monaance-sultanate-overview/","tags":["Monaance_Sultanate","Region_Overview"],"created":"2025-12-30T11:13:32.293+01:00","updated":"2026-01-19T14:59:34.661+01:00"}
 ---
 
 Ruler: 
@@ -18,6 +18,7 @@ Motto:
 Currency:
 Religion : 
 
+The main cities in the Monaance Sultanate are [[Worldbuilding/Scastant/Geography/Regions/Monaance Sultanate/Environment/Cities & Towns/Mastat/Overview\|Mastat]], [[Worldbuilding/Scastant/Geography/Regions/Monaance Sultanate/Environment/Cities & Towns/Nebebat/Overview\|Nebebat]], [[Worldbuilding/Scastant/Geography/Regions/Monaance Sultanate/Environment/Cities & Towns/Aljago/Overview\|Aljago]], and [[Worldbuilding/Scastant/Geography/Regions/Monaance Sultanate/Environment/Cities & Towns/Tisnati/Overview\|Tisnati]].
 [Overview]
 
 330.77 km = coastline west

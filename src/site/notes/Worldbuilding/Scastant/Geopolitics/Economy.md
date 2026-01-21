@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geopolitics/economy/","created":"2025-12-30T13:15:57.541+01:00","updated":"2026-01-16T13:20:39.395+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geopolitics/economy/","tags":["Notion"],"created":"2025-12-30T13:15:57.541+01:00","updated":"2026-01-17T16:50:03.677+01:00"}
 ---
 
 # Currencies

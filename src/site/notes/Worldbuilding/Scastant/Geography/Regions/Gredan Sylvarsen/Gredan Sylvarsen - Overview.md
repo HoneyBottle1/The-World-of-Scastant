@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/gredan-sylvarsen/gredan-sylvarsen-overview/","created":"2025-12-30T11:13:38.827+01:00","updated":"2026-01-16T12:31:15.349+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/gredan-sylvarsen/gredan-sylvarsen-overview/","tags":["Gredan_Sylvarsen","Region_Overview"],"created":"2025-12-30T11:13:38.827+01:00","updated":"2026-01-19T14:52:59.547+01:00"}
 ---
 
 Ruler: [[Worldbuilding/Scastant/Geography/Regions/Gredan Sylvarsen/History#The Awakening of Gaanlion\|Gaanlion]]
@@ -18,5 +18,6 @@ Motto:
 Currency:
 Religion : 
 
+The main city of the Gredan Sylvarsen is [[Worldbuilding/Scastant/Geography/Regions/Gredan Sylvarsen/Environment/Cities & Towns/Nilalume/Overview\|Nilalume]], and many other [[Worldbuilding/Scastant/Geography/Regions/Gredan Sylvarsen/Environment/Cities & Towns/Smaller Camps/Overview\|smaller camps]].
 [Overview]
 

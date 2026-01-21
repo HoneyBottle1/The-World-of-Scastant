@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/stories/scastant-stories/stranger-in-the-blizzard/","created":"2026-01-03T12:42:18.571+01:00","updated":"2026-01-16T13:24:51.911+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/stories/scastant-stories/stranger-in-the-blizzard/","tags":["Story"],"created":"2026-01-03T12:42:18.571+01:00","updated":"2026-01-17T16:54:48.376+01:00"}
 ---
 
 	It was dark out. The wind was beating on the windows of the tavern, and the snow was pouring down from on high, as it seemed to have done since anyone could remember. The tavern was usually very lively and filled with chatter. But for the past few days, the infrequent inn-goers still present were oddly silent, their gaze blank, almost hollow. The air was heavy with a sort of anxious dread.`

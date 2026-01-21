@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/brantimek-empire/culture/family/","created":"2025-12-31T00:08:41.049+01:00","updated":"2026-01-16T12:15:26.655+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/brantimek-empire/culture/family/","tags":["Brantimek_Empire"],"created":"2025-12-31T00:08:41.049+01:00","updated":"2026-01-17T14:11:03.844+01:00"}
 ---
 
 Typical age of marriage:

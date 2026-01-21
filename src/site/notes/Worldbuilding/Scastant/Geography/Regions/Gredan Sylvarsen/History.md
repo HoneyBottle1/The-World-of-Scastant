@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/gredan-sylvarsen/history/","created":"2025-12-30T11:13:38.823+01:00","updated":"2026-01-16T12:31:23.115+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/gredan-sylvarsen/history/","tags":["Gredan_Sylvarsen"],"created":"2025-12-30T11:13:38.823+01:00","updated":"2026-01-17T14:43:20.266+01:00"}
 ---
 
 # The Awakening of Gaanlion

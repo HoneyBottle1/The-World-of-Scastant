@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/everseen-council/everseen-council-overview/","created":"2025-12-30T11:10:57.682+01:00","updated":"2026-01-16T12:26:01.405+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/everseen-council/everseen-council-overview/","tags":["Everseen_Council","Region_Overview"],"created":"2025-12-30T11:10:57.682+01:00","updated":"2026-01-19T14:50:29.180+01:00"}
 ---
 
 Ruler: 
@@ -21,6 +21,7 @@ Motto:
 Currency:
 Religion : 
 
+The main cities of the Everseen Council are the [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Environment/Cities & Towns/Capitol City/Overview\|Capitol City]], the [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Environment/Cities & Towns/Observatory City/Overview\|Observatory City]], and the [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Environment/Cities & Towns/Northern Village/Overview\|Northern Village]].
 [Overview]
 
 Border (Monaance): 439 km

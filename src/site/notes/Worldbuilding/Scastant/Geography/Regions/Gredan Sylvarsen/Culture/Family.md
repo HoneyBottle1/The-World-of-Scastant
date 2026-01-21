@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/gredan-sylvarsen/culture/family/","created":"2025-12-31T00:08:58.767+01:00","updated":"2026-01-16T12:29:35.883+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/gredan-sylvarsen/culture/family/","tags":["Gredan_Sylvarsen"],"created":"2025-12-31T00:08:58.767+01:00","updated":"2026-01-17T14:33:01.583+01:00"}
 ---
 
 Typical age of marriage:

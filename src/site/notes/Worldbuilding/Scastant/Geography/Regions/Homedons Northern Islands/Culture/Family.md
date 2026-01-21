@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/homedons-northern-islands/culture/family/","created":"2025-12-31T00:09:03.127+01:00","updated":"2026-01-16T12:32:00.787+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/homedons-northern-islands/culture/family/","tags":["Homedons_Northern_Islands"],"created":"2025-12-31T00:09:03.127+01:00","updated":"2026-01-17T14:49:58.642+01:00"}
 ---
 
 Typical age of marriage:

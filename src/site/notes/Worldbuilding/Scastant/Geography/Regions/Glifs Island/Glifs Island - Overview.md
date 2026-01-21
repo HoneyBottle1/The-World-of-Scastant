@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/glifs-island/glifs-island-overview/","created":"2025-12-30T11:12:36.730+01:00","updated":"2026-01-16T12:28:42.938+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/glifs-island/glifs-island-overview/","tags":["Glifs_Island","Region_Overview"],"created":"2025-12-30T11:12:36.730+01:00","updated":"2026-01-19T14:51:46.812+01:00"}
 ---
 
 Ruler: 
@@ -18,5 +18,6 @@ Motto:
 Currency:
 Religion : 
 
+The main cities of Glifs Island are [[Worldbuilding/Scastant/Geography/Regions/Glifs Island/Environment/Cities & Towns/Lowcliff/Overview\|Lowcliff]], [[Worldbuilding/Scastant/Geography/Regions/Glifs Island/Environment/Cities & Towns/Rivermeet/Overview\|Rivermeet]], and [[Worldbuilding/Scastant/Geography/Regions/Glifs Island/Environment/Cities & Towns/Cragshade/Overview\|Cragshade]].
 [Overview]
 

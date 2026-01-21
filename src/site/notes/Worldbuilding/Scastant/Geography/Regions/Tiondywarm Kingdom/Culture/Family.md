@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/tiondywarm-kingdom/culture/family/","created":"2025-12-31T00:09:15.125+01:00","updated":"2026-01-16T12:39:10.125+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/tiondywarm-kingdom/culture/family/","tags":["Tiondywarm_Kingdom"],"created":"2025-12-31T00:09:15.125+01:00","updated":"2026-01-17T15:02:16.399+01:00"}
 ---
 
 Typical age of marriage:

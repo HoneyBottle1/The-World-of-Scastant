@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/duskenvar/duskenvar-overview/","created":"2025-12-30T11:13:36.769+01:00","updated":"2026-01-16T12:21:05.087+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/duskenvar/duskenvar-overview/","tags":["Duskenvar","Region_Overview"],"created":"2025-12-30T11:13:36.769+01:00","updated":"2026-01-19T14:49:23.089+01:00"}
 ---
 
 Ruler: 
@@ -18,6 +18,7 @@ Motto:
 Currency:
 Religion : 
 
+The main cities of Duskenvar are [[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Environment/Cities & Towns/Amberton/Overview\|Amberton]], [[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Environment/Cities & Towns/Marmire/Overview\|Marmire]], and [[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Environment/Cities & Towns/Slamere/Overview\|Slamere]]
 [Overview]
 
 North Coastlines: 293.59 km

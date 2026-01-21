@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/glifs-island/culture/family/","created":"2025-12-31T00:08:54.357+01:00","updated":"2026-01-16T12:26:48.574+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/glifs-island/culture/family/","tags":["Glifs_Island"],"created":"2025-12-31T00:08:54.357+01:00","updated":"2026-01-17T14:24:22.712+01:00"}
 ---
 
 Typical age of marriage:

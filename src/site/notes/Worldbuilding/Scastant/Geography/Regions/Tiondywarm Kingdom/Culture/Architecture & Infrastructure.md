@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/tiondywarm-kingdom/culture/architecture-and-infrastructure/","created":"2025-12-31T00:09:15.122+01:00","updated":"2026-01-16T12:39:00.716+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/tiondywarm-kingdom/culture/architecture-and-infrastructure/","tags":["Tiondywarm_Kingdom"],"created":"2025-12-31T00:09:15.122+01:00","updated":"2026-01-17T15:02:01.158+01:00"}
 ---
 
 # Housing

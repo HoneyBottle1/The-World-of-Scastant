@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/tiondywarm-kingdom/tiondywarm-kingdom-overview/","created":"2025-12-30T11:13:30.206+01:00","updated":"2026-01-16T12:41:15.978+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/tiondywarm-kingdom/tiondywarm-kingdom-overview/","tags":["Tiondywarm_Kingdom","Region_Overview"],"created":"2025-12-30T11:13:30.206+01:00","updated":"2026-01-20T14:01:48.623+01:00"}
 ---
 
 Ruler: 
@@ -9,7 +9,7 @@ Population: 3,139,500 (8.97% the total population)
 Population Density: 26.34 people/sq. km
 Climate / Weather: 
 Area: ~ 119,191 km<sup>2</sup>
-Borders: ~ 1,819 km ([[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Duskenvar - Overview\|Duskenvar]]: ~ 107 km | [[Worldbuilding/Scastant/Geography/Regions/Azraine/Azraine - Overview\|Azraine]]: ~ 131 km | [[Worldbuilding/Scastant/Geography/Regions/Valin Wastes/Valin Wastes - Overview\|Valin Wastes]]: ~ 468 km | [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Weschamian Empire - Overview\|Weschamian Empire]]: ~ 863 km)
+Borders: ~ 1,819 km ([[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Duskenvar - Overview\|Duskenvar]]: ~ 107 km | [[Worldbuilding/Scastant/Geography/Regions/Azraine/Azraine - Overview\|Azraine]]: ~ 381 km | [[Worldbuilding/Scastant/Geography/Regions/Valin Wastes/Valin Wastes - Overview\|Valin Wastes]]: ~ 468 km | [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Weschamian Empire - Overview\|Weschamian Empire]]: ~ 863 km)
 Coastlines: ~ 396 km
 Water %: 
 Nexus:
@@ -18,6 +18,7 @@ Motto:
 Currency:
 Religion : 
 
+The main cities of the Tiondywarm Kingdom are [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Environment/Cities & Towns/City 1/Overview\|City 1]], [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Environment/Cities & Towns/City 2/Overview\|Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Environment/Cities & Towns/City 2/Overview]], and [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Environment/Cities & Towns/City 3/Overview\|City 3]]
 [Overview]
 
 

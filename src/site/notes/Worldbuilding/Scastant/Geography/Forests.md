@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/forests/","created":"2025-12-30T14:00:08.474+01:00","updated":"2026-01-16T13:19:32.943+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/forests/","tags":["Geographic_Location"],"created":"2025-12-30T14:00:08.474+01:00","updated":"2026-01-17T16:47:58.171+01:00"}
 ---
 
 

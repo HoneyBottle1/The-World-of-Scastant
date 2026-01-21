@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/magic/types-of-magic/time-magic/","created":"2025-12-30T11:04:18.920+01:00","updated":"2026-01-16T15:41:11.337+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/magic/types-of-magic/time-magic/","tags":["Valin_Wastes","Concept"],"created":"2025-12-30T11:04:18.920+01:00","updated":"2026-01-17T16:53:24.410+01:00"}
 ---
 
 Time Magic touches sequence, not destiny. It may hasten decay, delay an instant, or glimpse what has already been written, but it cannot undo consequence. Every use leaves the practitioner slightly out of rhythm with the world. 

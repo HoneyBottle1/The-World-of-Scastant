@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/magic/types-of-magic/magitech/","created":"2025-12-30T11:04:18.920+01:00","updated":"2026-01-16T13:22:41.439+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/science-and-magic/magic/types-of-magic/magitech/","tags":["Duskenvar","Concept"],"created":"2025-12-30T11:04:18.920+01:00","updated":"2026-01-17T16:52:56.271+01:00"}
 ---
 
 Magitech is a relatively new type of magic on the continental scale. Unlike other Magic types, it was created mostly by mankind, [[Worldbuilding/Scastant/General Overview#The Concepts\|Magic]] never having intended for it to exist. For many magic purists, and for [[Worldbuilding/Scastant/Geography/Regions/Gredan Sylvarsen/History#The Awakening of Gaanlion\|Gaanlion]], as an extension of the [[Worldbuilding/Scastant/General Overview#The Concepts\|Earth]], this Magitech is an insult to the beauty and art that is Magic, as it is but flowing Magic being condensed through machines and technology, rendering the need for a wielder mostly useless.

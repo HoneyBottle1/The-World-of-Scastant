@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-01-16T10:49:48.906+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-01-20T14:18:22.447+01:00"}
 ---
 
 # General Overview
@@ -44,6 +44,24 @@ mention :
 - Shops/stores
 - Houses/apartments
 - age of civilization
+
+
+| Region                                                              | <div style="width:53px">Area %</div> | <div style="width:100px">Area (km<sup>2</sup>)</div> | Population | <div style="width:100px">Population %</div> | <div style="width:175px">Population Density (people / sq. km)</div> |
+| ------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------------------- | ---------- | ------------------------------------------- | ------------------------------------------------------------------- |
+| [[Worldbuilding/Scastant/Geography/Regions/Valin Wastes/Valin Wastes - Overview\|Valin Wastes]]                           | 5.06                                 | 141,087                                              | 87,500     | 0.25                                        | 0.62                                                                |
+| [[Worldbuilding/Scastant/Geography/Regions/Gredan Sylvarsen/Gredan Sylvarsen - Overview\|Gredan Sylvarsen]]                   | 0.78                                 | 21,991                                               | 175,000    | 0.5                                         | 7.95                                                                |
+| [[Worldbuilding/Scastant/Geography/Regions/Vangincouisa (CHANGE)/Vangincouisa - Overview\|Vangincouisa]]                           |                                      | 53,337                                               | 350,000    | 1                                           |                                                                     |
+| [[Worldbuilding/Scastant/Geography/Regions/Glifs Island/Glifs Island - Overview\|Glifs Island]]                           | 1.63                                 | 45,610                                               | 525,000    | 1.5                                         | 11.51                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Homedons Northern Islands/Homedons Northern Islands - Overview\|Homedons Northern Islands]] | 1.42                                 | 39,533                                               | 750,000    | 2.14                                        | 18.97                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Everseen Council - Overview\|Everseen Council]]                   | 3.28                                 | 91,463                                               | 1,750,000  | 5                                           | 19.13                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Ashenval/Ashenval - Overview\|Ashenval]]                                   |                                      | 67,318                                               | 1,918,500  | 5.48                                        |                                                                     |
+| [[Worldbuilding/Scastant/Geography/Regions/Monaance Sultanate/Monaance Sultanate - Overview\|Monaance Sultanate]]               | 3.60                                 | 100,476                                              | 1,968,000  | 5.62                                        | 19.58                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Azraine/Azraine - Overview\|Azraine]]                                     |                                      |                                                      | 3,139,500  | 8.97                                        |                                                                     |
+| [[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Duskenvar - Overview\|Duskenvar]]                                 | 3.88                                 | 108,155                                              | 3,314,500  | 9.47                                        | 30.64                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]]               | 4.27                                 | 119,191                                              | 4,364,500  | 12.47                                       | 26.34                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Weschamian Empire - Overview\|Weschamian Empire]]                 | 13.37                                | 372,710                                              | 6,711,000  | 19.17                                       | 18                                                                  |
+| [[Worldbuilding/Scastant/Geography/Regions/Brantimek Empire/Brantimek Empire - Overview\|Brantimek Empire]]                   |                                      | 308,569                                              | 9,947,000  | 28.42                                       |                                                                     |
+| Total                                                               | 100                                  | 2,787,500                                            | 35,000,000 | 100                                         | 12.5                                                                |
 
 Glifs: 1.50% = 525,000
 Homedons: 2.14% = 750,000

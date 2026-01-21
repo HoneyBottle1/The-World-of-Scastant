@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/homedons-northern-islands/culture/architecture-and-infrastructure/","created":"2025-12-31T00:09:03.123+01:00","updated":"2026-01-16T12:31:50.847+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/homedons-northern-islands/culture/architecture-and-infrastructure/","tags":["Homedons_Northern_Islands"],"created":"2025-12-31T00:09:03.123+01:00","updated":"2026-01-17T14:49:45.913+01:00"}
 ---
 
 # Housing

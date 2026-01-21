@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/everseen-council/government/","created":"2025-12-30T11:10:57.682+01:00","updated":"2026-01-16T12:26:05.954+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/everseen-council/government/","tags":["Everseen_Council"],"created":"2025-12-30T11:10:57.682+01:00","updated":"2026-01-17T14:23:43.457+01:00"}
 ---
 
