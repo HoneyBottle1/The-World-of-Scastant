@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-01-22T16:45:32.372+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-01-22T16:56:40.390+01:00"}
 ---
 
-HELLO WORLD
 # General Overview
 ## Prologue
 This document aims to explain the different aspects of the world of Scastant in a clear and concise manner. It shall go over all the major plot points, legends, systems and geography of the world. Please be advised that this document is highly unfinished, and that some points might be modified at any time.
@@ -33,7 +32,22 @@ For measurements in the Minecraft in-game world, the scale becomes 1:41,600, whe
 
 This main continent hosts about 35 million people, which represents an average population density of 12.5 people/sq. km. But it is important to note that most of the population lives in small and remote villages in the wilderness. Indeed, only around 11% of the population of Scastant lives in urban centers, while the other 89% is spread unevenly in the rest of the land. This means only around 3.85 million people actually live in the few major cities spread in each region. And even then, the most populous cities rarely surpass 250,000 inhabitants.
 
-
+| Region                                                              | <div style="width:53px">Area %</div> | <div style="width:100px">Area (km<sup>2</sup>)</div> | Population | <div style="width:100px">Population %</div> | <div style="width:175px">Population Density (people / sq. km)</div> |
+| ------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------------------- | ---------- | ------------------------------------------- | ------------------------------------------------------------------- |
+| [[Worldbuilding/Scastant/Geography/Regions/Valin Wastes/Valin Wastes - Overview\|Valin Wastes]]                           | 5.06                                 | 141,087                                              | 87,500     | 0.25                                        | 0.62                                                                |
+| [[Worldbuilding/Scastant/Geography/Regions/Gredan Sylvarsen/Gredan Sylvarsen - Overview\|Gredan Sylvarsen]]                   | 0.78                                 | 21,991                                               | 175,000    | 0.5                                         | 7.95                                                                |
+| [[Worldbuilding/Scastant/Geography/Regions/Vangincouisa (CHANGE)/Vangincouisa - Overview\|Vangincouisa]]                           | 1.91                                 | 53,337                                               | 350,000    | 1                                           | 6.56                                                                |
+| [[Worldbuilding/Scastant/Geography/Regions/Glifs Island/Glifs Island - Overview\|Glifs Island]]                           | 1.63                                 | 45,610                                               | 525,000    | 1.5                                         | 11.51                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Homedons Northern Islands/Homedons Northern Islands - Overview\|Homedons Northern Islands]] | 1.42                                 | 39,533                                               | 750,000    | 2.14                                        | 18.97                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Everseen Council - Overview\|Everseen Council]]                   | 3.28                                 | 91,463                                               | 1,750,000  | 5                                           | 19.13                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Ashenval/Ashenval - Overview\|Ashenval]]                                   | 2.41                                 | 67,318                                               | 1,918,500  | 5.48                                        | 28.5                                                                |
+| [[Worldbuilding/Scastant/Geography/Regions/Monaance Sultanate/Monaance Sultanate - Overview\|Monaance Sultanate]]               | 3.60                                 | 100,476                                              | 1,968,000  | 5.62                                        | 19.58                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Azraine/Azraine - Overview\|Azraine]]                                     |                                      |                                                      | 3,139,500  | 8.97                                        |                                                                     |
+| [[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Duskenvar - Overview\|Duskenvar]]                                 | 3.88                                 | 108,155                                              | 3,314,500  | 9.47                                        | 30.64                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]]               | 4.27                                 | 119,191                                              | 4,364,500  | 12.47                                       | 26.34                                                               |
+| [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Weschamian Empire - Overview\|Weschamian Empire]]                 | 13.37                                | 372,710                                              | 6,711,000  | 19.17                                       | 18                                                                  |
+| [[Worldbuilding/Scastant/Geography/Regions/Brantimek Empire/Brantimek Empire - Overview\|Brantimek Empire]]                   | 11.07                                | 308,569                                              | 9,947,000  | 28.42                                       | 32.23                                                               |
+| Total                                                               | 100                                  | 2,787,500                                            | 35,000,000 | 100                                         | 12.5                                                                |
 
 temp:
 
@@ -45,35 +59,3 @@ mention :
 - Shops/stores
 - Houses/apartments
 - age of civilization
-
-
-| Region                                                              | <div style="width:53px">Area %</div> | <div style="width:100px">Area (km<sup>2</sup>)</div> | Population | <div style="width:100px">Population %</div> | <div style="width:175px">Population Density (people / sq. km)</div> |
-| ------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------------------- | ---------- | ------------------------------------------- | ------------------------------------------------------------------- |
-| [[Worldbuilding/Scastant/Geography/Regions/Valin Wastes/Valin Wastes - Overview\|Valin Wastes]]                           | 5.06                                 | 141,087                                              | 87,500     | 0.25                                        | 0.62                                                                |
-| [[Worldbuilding/Scastant/Geography/Regions/Gredan Sylvarsen/Gredan Sylvarsen - Overview\|Gredan Sylvarsen]]                   | 0.78                                 | 21,991                                               | 175,000    | 0.5                                         | 7.95                                                                |
-| [[Worldbuilding/Scastant/Geography/Regions/Vangincouisa (CHANGE)/Vangincouisa - Overview\|Vangincouisa]]                           |                                      | 53,337                                               | 350,000    | 1                                           | 6.56                                                                |
-| [[Worldbuilding/Scastant/Geography/Regions/Glifs Island/Glifs Island - Overview\|Glifs Island]]                           | 1.63                                 | 45,610                                               | 525,000    | 1.5                                         | 11.51                                                               |
-| [[Worldbuilding/Scastant/Geography/Regions/Homedons Northern Islands/Homedons Northern Islands - Overview\|Homedons Northern Islands]] | 1.42                                 | 39,533                                               | 750,000    | 2.14                                        | 18.97                                                               |
-| [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Everseen Council - Overview\|Everseen Council]]                   | 3.28                                 | 91,463                                               | 1,750,000  | 5                                           | 19.13                                                               |
-| [[Worldbuilding/Scastant/Geography/Regions/Ashenval/Ashenval - Overview\|Ashenval]]                                   |                                      | 67,318                                               | 1,918,500  | 5.48                                        |                                                                     |
-| [[Worldbuilding/Scastant/Geography/Regions/Monaance Sultanate/Monaance Sultanate - Overview\|Monaance Sultanate]]               | 3.60                                 | 100,476                                              | 1,968,000  | 5.62                                        | 19.58                                                               |
-| [[Worldbuilding/Scastant/Geography/Regions/Azraine/Azraine - Overview\|Azraine]]                                     |                                      |                                                      | 3,139,500  | 8.97                                        |                                                                     |
-| [[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Duskenvar - Overview\|Duskenvar]]                                 | 3.88                                 | 108,155                                              | 3,314,500  | 9.47                                        | 30.64                                                               |
-| [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]]               | 4.27                                 | 119,191                                              | 4,364,500  | 12.47                                       | 26.34                                                               |
-| [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Weschamian Empire - Overview\|Weschamian Empire]]                 | 13.37                                | 372,710                                              | 6,711,000  | 19.17                                       | 18                                                                  |
-| [[Worldbuilding/Scastant/Geography/Regions/Brantimek Empire/Brantimek Empire - Overview\|Brantimek Empire]]                   |                                      | 308,569                                              | 9,947,000  | 28.42                                       | 32.23                                                               |
-| Total                                                               | 100                                  | 2,787,500                                            | 35,000,000 | 100                                         | 12.5                                                                |
-
-Glifs: 1.50% = 525,000
-Homedons: 2.14% = 750,000
-Everseen: 5% = 1,750,000
-Monaance: 5.62% = 1,968,000
-Weschamian: 19.17% = 6,711,000
-Gredan: 0.5% = 175,000
-Valin: 0.25% = 87500
-Tiondywarm: 12.47% = 4,364,500
-Duskenvar: 9.47% = 3,314,500
-Ashenval: 5.48% = 1,918,000
-Azraine: 8.97% = 3,139,500
-Vangincouisa: 1% = 350,000
-Brantimek: 28.42% = 9,947,000
