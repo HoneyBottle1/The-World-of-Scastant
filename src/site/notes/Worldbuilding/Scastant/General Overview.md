@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-01-22T16:56:40.390+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-01-23T09:12:38.696+01:00"}
 ---
 
 # General Overview
@@ -15,9 +15,12 @@ In this world, there is no God or Devil, no Angels or Demons. What one would ima
 Space created the world of Scastant, and in this feat bore life to the Ocean (sometimes called the Sea by humans) and the Earth; and Life created all living beings, with the Plantae kingdom first (Fungi and Microbes too, if you want to include everything), followed by the Animalia kingdom. It is important to understand that these Concepts are thought to be alive and sentient.
 
 ## The Workings of Time
-Time in this world is much similar to that of our Earth: Time is counted in seconds, minutes, hours, days, years, decades, centuries, millennia, ages, periods, ages, eons. Sixty seconds is a minute, sixty minutes is an hour, twenty-four hours is a day, thirty days is a month, twelve months are a year, a hundred years is a century, a thousand years (ten centuries) is a millennium. 
+Time in this world is much similar to that of our Earth: Time is counted in seconds, minutes, hours, days, years, decades, centuries, millennia, ages, periods, ages, eons. Sixty seconds is a minute, sixty minutes is an hour, twenty-four hours is a day, thirty days is a month, twelve months are a year, a hundred years is a century, a thousand years (ten centuries) is a millennium.
 
-Time is counted in two important eras: The Before Everseen Era (BE), and the Everseen Reckoning Era (ER). These two Ages are demarcated by one major event: The creation of the Core Nexus by the Everseen Council (more on this later), represented by Year 0. Time in BE goes down to meet Year 0, while time in ER goes up away from Year 0.
+Time is counted in two important eras: The Before Everseen Era (**BE**), and the Everseen Reckoning Era (**ER**). These two Ages are demarcated by one major event: The creation of the [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/History#The Creation of the Nexuses\|Core Nexus]] by the [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Everseen Council - Overview\|Everseen Council]] (more on this later), represented by Year 0. Time in BE goes down to meet Year 0, while time in ER goes up away from Year 0. 
+
+The current time in this world is 1225 **ER**. If this had to be compared to our world's time, I think it would compared to somewhere around the XVIth or XVIIth century, with some obvious different quirks.
+
 ### Seasons, Months and Calendars
 
 ## Of the Creation of Scastant
