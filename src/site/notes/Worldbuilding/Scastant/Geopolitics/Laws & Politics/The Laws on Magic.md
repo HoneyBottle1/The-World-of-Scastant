@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geopolitics/laws-and-politics/the-laws-on-magic/","tags":["Notion"],"created":"2026-02-02T13:48:24.811+01:00","updated":"2026-02-02T14:58:19.867+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geopolitics/laws-and-politics/the-laws-on-magic/","tags":["Notion"],"created":"2026-02-02T13:48:24.811+01:00","updated":"2026-02-02T15:11:02.735+01:00"}
 ---
 
 *As first ratified, 435 **ER**:* 
@@ -60,6 +60,7 @@ This accord supersedes all prior regional or local statutes concerning Magic, an
 
 
 
+to add later:
 Article 7.3 : Magical force may be prepared only in defense, deterrence, or the preservation of peace. 
 
 Article 9.3 : All study of Magic must respect the integrity of the living form, whether of flesh, root, or spirit.
