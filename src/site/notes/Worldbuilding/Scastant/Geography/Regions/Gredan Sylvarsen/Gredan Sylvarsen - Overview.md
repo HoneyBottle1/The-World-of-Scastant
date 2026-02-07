@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/gredan-sylvarsen/gredan-sylvarsen-overview/","tags":["Gredan_Sylvarsen","Region_Overview"],"created":"2025-12-30T11:13:38.827+01:00","updated":"2026-01-19T14:52:59.547+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/gredan-sylvarsen/gredan-sylvarsen-overview/","tags":["Gredan_Sylvarsen","Region_Overview"],"created":"2025-12-30T11:13:38.827+01:00","updated":"2026-01-19T14:52:48.223+01:00"}
 ---
 
 Ruler: [[Worldbuilding/Scastant/Geography/Regions/Gredan Sylvarsen/History#The Awakening of Gaanlion\|Gaanlion]]

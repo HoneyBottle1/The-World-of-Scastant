@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/inner-ocean/inner-ocean-overview/","tags":["Inner_Ocean","Region_Overview"],"created":"2025-12-30T11:13:35.392+01:00","updated":"2026-01-20T13:25:14.765+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/inner-ocean/inner-ocean-overview/","tags":["Inner_Ocean","Region_Overview"],"created":"2025-12-30T11:13:35.392+01:00","updated":"2026-02-06T10:52:21.892+01:00"}
 ---
 
 Ruler: 
@@ -8,7 +8,7 @@ Magic Type:
 Population: 
 Climate / Weather: 
 Area: 
-Water %: 
+Water %: 100%
 Government:
 Nexus:
 Banner:
