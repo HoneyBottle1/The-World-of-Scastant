@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/weschamian-empire/weschamian-empire-overview/","tags":["Weschamian_Empire","Region_Overview"],"created":"2025-12-30T11:12:41.541+01:00","updated":"2026-01-19T17:31:07.833+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/weschamian-empire/weschamian-empire-overview/","tags":["Weschamian_Empire","Region_Overview"],"created":"2025-12-30T11:12:41.541+01:00","updated":"2026-02-19T17:12:05.678+01:00"}
 ---
 
 Ruler: [[Worldbuilding/Scastant/Stories/Characters/13th Pontiff Odilon\|13th Pontiff Odilon]]
@@ -21,6 +21,9 @@ Religion :
 [Overview]
 
 The main cities in the Weschamian Empire are [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Mythrafeld/Overview\|Mythrafeld]], [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Roeslen/Overview\|Roeslen]], [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Tournon/Overview\|Tournon]], and [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Solmara/Overview\|Solmara]].
+
+
+
 1528.97 (Tiondywarm + Valin)
 575.04 (Everseen)
 665.9 (Tiondywarm)
