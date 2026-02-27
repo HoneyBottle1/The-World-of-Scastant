@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-02-27T10:12:06.872+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-02-27T10:44:10.123+01:00"}
 ---
 
 # General Overview
@@ -29,6 +29,7 @@ Seasons are divided in two : The Dark Season and the Light Season. These two div
 | **Early**  | April - May        | October - November |
 | **Medial** | June - July        | December - January |
 | **Late**   | August - September | February - March   |
+
 As dictated by the new calendar, appointed by the [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Everseen Council - Overview\|Everseen Council]], the days of the week are counted from the First day to the Seventh day. There are exactly 30 days in each month. Months of the year are counted from the First month to the Twelfth month, the first corresponding to our world's April. Indeed, in many people's view, this would mark the revival of the Earth and all its Life. 
 ## Of the Creation of Scastant
 When Scastant was created, it was first entirely covered in one never-ending ocean. As Time passed, the water slowly evaporated, starting to reveal land. The first life forms to be born in this world were underwater plants and microscopic microbes. Over Time, more and more land emerged from the Ocean, and Life began to populate the Earth. As plants thrived everywhere, insects, and later, animals started evolving in both environments. Eons upon eons passed, and finally sentient creatures appeared first in water, then on land. For the Earth, it was the first Humans, and for the Ocean, it was the [[Worldbuilding/Scastant/Geography/Fauna & Flora/Fauna/The Thalenvael\|The Thalenvael]], a species of highly intelligent Sea Creatures. Their real name is unknown, and they are only called Thalenvael by the few Humans who believe they exist (more on that later). Through the centuries and millennia, water kept sinking lower, revealing evermore land, until present days. It is feared that water will keep disappearing until none is left in the whole world.
