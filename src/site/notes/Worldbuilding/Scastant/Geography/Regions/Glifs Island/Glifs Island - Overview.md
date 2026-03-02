@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/glifs-island/glifs-island-overview/","tags":["Glifs_Island","Region_Overview"],"created":"2025-12-30T11:12:36.730+01:00","updated":"2026-01-19T14:51:46.812+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/glifs-island/glifs-island-overview/","tags":["Glifs_Island","Region_Overview"],"created":"2025-12-30T11:12:36.730+01:00","updated":"2026-03-02T17:18:17.057+01:00"}
 ---
 
 Ruler: 
@@ -19,5 +19,4 @@ Currency:
 Religion : 
 
 The main cities of Glifs Island are [[Worldbuilding/Scastant/Geography/Regions/Glifs Island/Environment/Cities & Towns/Lowcliff/Overview\|Lowcliff]], [[Worldbuilding/Scastant/Geography/Regions/Glifs Island/Environment/Cities & Towns/Rivermeet/Overview\|Rivermeet]], and [[Worldbuilding/Scastant/Geography/Regions/Glifs Island/Environment/Cities & Towns/Cragshade/Overview\|Cragshade]].
-[Overview]
-
+Before the Glifs Rip, the island's general landscape looked very much alike to that of the Everseen Council. But one of the after-effects of the disaster was the slow waning of Magic in the land, progressively transforming the territories from lush hills and woodlands to gray, dull, and flat lands.  
