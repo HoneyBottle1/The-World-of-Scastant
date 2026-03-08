@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/oceans-seas-and-bodies-of-water/","tags":["Geographic_Location"],"created":"2025-12-30T13:16:46.595+01:00","updated":"2026-02-19T11:55:38.737+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/oceans-seas-and-bodies-of-water/","tags":["Geographic_Location"],"created":"2025-12-30T13:16:46.595+01:00","updated":"2026-03-04T14:43:19.074+01:00"}
 ---
 
 # Oceans & Seas
@@ -11,6 +11,8 @@ area: 578,771 km2
 
 ### Inner Ocean
 Area: 290,138 km<sup>2</sup>
+
+
 weschamian: 931.32
 everseen: 74.32
 monaance: 957
@@ -22,6 +24,8 @@ total: 3492.55
 
 ### Black Expanse
 Area: 151,964 km<sup>2</sup>
+
+
 tiondywarm: 155.85
 azraine: 411.92
 brantimek: 674.48

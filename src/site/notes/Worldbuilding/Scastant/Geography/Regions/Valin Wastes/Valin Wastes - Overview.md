@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/valin-wastes/valin-wastes-overview/","tags":["Valin_Wastes","Region_Overview"],"created":"2025-12-30T11:13:40.867+01:00","updated":"2026-03-02T10:47:00.024+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/valin-wastes/valin-wastes-overview/","tags":["Valin_Wastes","Region_Overview"],"created":"2025-12-30T11:13:40.867+01:00","updated":"2026-03-04T12:14:27.773+01:00"}
 ---
 
 Ruler: 
@@ -7,7 +7,7 @@ Government:
 Magic Type: [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Time Magic\|Time Magic]]
 Population: 87,500 (0.5% the total population)
 Population Density: 0.62 people/sq. km
-Climate / Weather: Constant and everlasting blizzard. There is no hot season in most of the Region, even during the Light Season. Temperatures rarely go over 0°C, and most of the water stays frozen all year round.
+Climate / Weather: Polar climate, with a huge ice cap over the region. Constant and everlasting blizzard. There is no hot season in most of the Region, even during the Light Season. Temperatures rarely go over 0°C, and most of the water stays frozen all year round.
 Area: ~ 141,087 km<sup>2</sup>
 Borders: ~ 1,803 km ([[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Duskenvar - Overview\|Duskenvar]]: ~ 27 km | [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]]: ~ 468 km | [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Weschamian Empire - Overview\|Weschamian Empire]]: ~ 665 km)
 Coastlines: None
