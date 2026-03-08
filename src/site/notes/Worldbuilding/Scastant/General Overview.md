@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-02-27T10:44:10.123+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-03-08T11:12:05.171+01:00"}
 ---
 
 # General Overview
@@ -30,7 +30,7 @@ Seasons are divided in two : The Dark Season and the Light Season. These two div
 | **Medial** | June - July        | December - January |
 | **Late**   | August - September | February - March   |
 
-As dictated by the new calendar, appointed by the [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Everseen Council - Overview\|Everseen Council]], the days of the week are counted from the First day to the Seventh day. There are exactly 30 days in each month. Months of the year are counted from the First month to the Twelfth month, the first corresponding to our world's April. Indeed, in many people's view, this would mark the revival of the Earth and all its Life. 
+As dictated by the new calendar, appointed by the [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Everseen Council - Overview\|Everseen Council]], the days of the week are counted from the First day to the Seventh day. There are exactly 60 days in each sub-Season, or 180 days per Season. Months of the year aren't actually accounted for in Scastant, as people usually refer to the sub-Seasons. The first month would however correspond to our world's April. Indeed, in many people's view, this would mark the revival of the Earth and all its Life. 
 ## Of the Creation of Scastant
 When Scastant was created, it was first entirely covered in one never-ending ocean. As Time passed, the water slowly evaporated, starting to reveal land. The first life forms to be born in this world were underwater plants and microscopic microbes. Over Time, more and more land emerged from the Ocean, and Life began to populate the Earth. As plants thrived everywhere, insects, and later, animals started evolving in both environments. Eons upon eons passed, and finally sentient creatures appeared first in water, then on land. For the Earth, it was the first Humans, and for the Ocean, it was the [[Worldbuilding/Scastant/Geography/Fauna & Flora/Fauna/The Thalenvael\|The Thalenvael]], a species of highly intelligent Sea Creatures. Their real name is unknown, and they are only called Thalenvael by the few Humans who believe they exist (more on that later). Through the centuries and millennia, water kept sinking lower, revealing evermore land, until present days. It is feared that water will keep disappearing until none is left in the whole world.
 ### Continents of Scastant
@@ -76,3 +76,22 @@ mention :
 - Shops/stores
 - Houses/apartments
 - age of civilization
+
+TODO:
+- ~~Finish Azraine climate~~
+- ~~Ashenval description + climate~~
+- More specific descriptions for forests, mountains, rivers, bays, seas and oceans
+- Rework all the rivers for more realistic stuff
+- Tectonic plates?
+- Magic Schools
+	- Everseen Academy of Superior Applied Magic (EASAM)
+- Mines (for gold/riches and currencies)
+- Astronomers and cartographers, along with the tools they use
+- Invention of the wheelchair
+- Punishments for crimes (cf. image in phone)
+- For Homedons : All buildings are built facing West → their old home beyond the waves
+- More about Homedons early history
+- Astra Belt
+- Funerary practices
+
+IDEA : player / MC gets the Xenith Astra, and casts down the barriers in the North, West and South (and East?). But the cost for such a ppwerful spell uses up almost all (or all?) of Magic in the continent of Scastant → Allows for more stories past the main continent (which might not be the main continent after all), while not having any issues with only one continent having all these different types of Magic
