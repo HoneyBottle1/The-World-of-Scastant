@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/mountain-chains/","tags":["Geographic_Location"],"created":"2025-12-30T13:17:47.424+01:00","updated":"2026-03-06T12:34:54.840+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/mountain-chains/","tags":["Geographic_Location"],"created":"2025-12-30T13:17:47.424+01:00","updated":"2026-03-09T10:00:48.238+01:00"}
 ---
 
 ### Studies Peaks
@@ -25,15 +25,23 @@ Average Height : ~ 10,100 m
 ### Sandrial Cliffs
 The Sandrial Cliffs are large sandstone cliffs to the south of the world, within the Sultanate of Monaance. They suddenly rise up from the endless dunes of sand, tall in the sky. Many small paths wind through the treacherous terrain, falling and rising. On the western side, the cliffs reach the edge of the land and fall into the sea, slowly eroding the terrain with time. A village made up of archaeologists and miners was built along the walls deep within the ravines, in search of riches or knowledge. Rumours indeed talk of a hidden temple somewhere in the region, as old as the rocks themselves, but few are the ones who still seek it. The roots of the canyons are filled with copious amounts of valuable ores, sold in the whole world. Some people, in their search for adventure, climbed up the steep cliffside to reach the top, sometimes seemingly touching the clouds. From the reports of people who came back down alive, it is a vast and mostly flat land, with some vegetation, and active wildlife. 
 Average Height: ~ 1,500 m
-Average Length (mapped): ~ 291 km
+Average Length (Mapped): ~ 291 km
 ### Rothebron Rise
 In the north-eastern part of the world, the Rothebron Rise divides the continent between the dry region of the Valin plains and the marshes of Duskenvar. They are home to the longest rivers in the land, and also feed the many large lakes of Duskenvar. To the south, their height drops significantly, becoming barely taller than hills. 
 Average Height: ~ 4,650 m (South: 1,100 m)
 Average Length: ~ 417 km
 ### Arnsor Peaks
-
+The Arnsor Peaks are small mountains to the north-west of the continent. They act as a sort of natural barrier to Duskenvar and the shores of the \[largest lake of Duskenvar]. They are however quite small in height and in length both. They are indeed the shortest of the whole continent in both accounts. It is rumoured a few settlements are nestled amongst the foothills of the Arnsor Peaks. While being short, the snow line on these mountains is low, allowing for more snow to pile up, giving the peaks a heightened sense of grandeur.
+Average Height: ~ 1,950
+Average Length (Mapped): ~ 89 km
 ### Mount Ashblain
-
+Mount Ashblain is the most imposing and most important volcano in the region of the Brantimek Empire. It is located between the Carcamans Mountains in the South and the Vanishing Heights in the North. Its existence is only known through stories, and was confirmed only recently with deep inland expeditions led by western coalitions. It is a large, steep volcano, lava pouring from its many chimneys all the way to the flat, desolate plains making up most of the region. The rock has been blackened from the smoke and ash and cinder. As with every other volcano in the Brantimek Empire, it is a high place of worship, and a \[church] is built along its side, near the top. Stairs also snake along its edges, carved into the stone itself. 
+Average Height: ~ 7,200 m
 ### Carcamans Mountains
-
+Not much is known about the Carcamans Mountains, being so far south. Being a continuation of the Vanishing Heights, it is fair to assume they are similarly tall and sharp. Even the most seasoned climbers would not dare attempt the ascent. As with everything else within the Brantimek Empire, the high volcanic activity has darkened the stone of these mountains to a point they appear black. During the night, the mountains are indistinguishable from the darkness of the sky, itself covered in the thick smog of the region.
+Average Height: ~ 6,300 m
+Average Length (Mapped): ~ 397 km
 ### Vanishing Heights
+The Vanishing Heights are imposing mountains splitting the north of the Brantimek Empire in half. This range earned its name from the first expeditions over the Black Expanse, taking notes of the northern coastlines of the eastern empire. When arriving near the line of mountains, the thick smg being carried from the nearby volcanoes made the mountains look like they were seemingly vanishing into nothingness. The mountains come straight to the coast and continue into the sea. Some also rise above sea levels, creating a jagged and rocky coastline. The area around those underwater mountains is therefore quite dangerous to sail, because of the uneven seabed.
+Average Height: ~ 6,700 m
+Average Length: ~ 453 km
