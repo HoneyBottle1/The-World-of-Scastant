@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-03-08T11:12:05.171+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-03-10T21:51:15.906+01:00"}
 ---
 
 # General Overview
@@ -38,10 +38,10 @@ The most well-known and populated part of the world by far is the continental pl
 This continental plateau is roughly 2,500km in length, and 1,115km in width, its area around 2,787,500km<sup>2</sup>.
 
 ![ScastantMainMap.png](/img/user/Worldbuilding/Scastant/ScastantMainMap.png)
-On this map can be seen all 13 regions of this continent, along with most of the important points of interests. The scale of this map is 1:4,000,000. This means one centimeter on the map represents 40km in the world.
-For measurements in the Minecraft in-game world, the scale becomes 1:41,600, where one centimeter on the map represents 0.416 thousand blocks in game (or 416 blocks).
+On this map can be seen all 13 regions of this continent, along with most of the important points of interests. The scale of this map is 1:4,000,000. This means one centimetre on the map represents 40km in the world.
+For measurements in the Minecraft in-game world, the scale becomes 1:41,600, where one centimetre on the map represents 0.416 thousand blocks in game (or 416 blocks).
 
-This main continent hosts about 35 million people, which represents an average population density of 12.5 people/sq. km. But it is important to note that most of the population lives in small and remote villages in the wilderness. Indeed, only around 11% of the population of Scastant lives in urban centers, while the other 89% is spread unevenly in the rest of the land. This means only around 3.85 million people actually live in the few major cities spread in each region. And even then, the most populous cities rarely surpass 250,000 inhabitants.
+This main continent hosts about 35 million people, which represents an average population density of 12.5 people/sq. km. But it is important to note that most of the population lives in small and remote villages in the wilderness. Indeed, only around 11% of the population of Scastant lives in urban centres, while the other 89% is spread unevenly in the rest of the land. This means only around 3.85 million people actually live in the few major cities spread in each region. And even then, the most populous cities rarely surpass 250,000 inhabitants.
 
 | Region                                                               | <div style="width:53px">Area %</div> | <div style="width:100px">Area (km<sup>2</sup>)</div> | Population | <div style="width:100px">Population %</div> | <div style="width:175px">Population Density (people / sq. km)</div> |
 | -------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------------------- | ---------- | ------------------------------------------- | ------------------------------------------------------------------- |
@@ -80,9 +80,9 @@ mention :
 TODO:
 - ~~Finish Azraine climate~~
 - ~~Ashenval description + climate~~
-- More specific descriptions for forests, mountains, rivers, bays, seas and oceans
-- Rework all the rivers for more realistic stuff
-- Tectonic plates?
+- More specific descriptions for forests, ~~mountains~~, rivers, bays, seas and oceans
+- ~~Rework all the rivers for more realistic stuff~~
+- ~~Tectonic plates?~~
 - Magic Schools
 	- Everseen Academy of Superior Applied Magic (EASAM)
 - Mines (for gold/riches and currencies)
@@ -94,4 +94,7 @@ TODO:
 - Astra Belt
 - Funerary practices
 
-IDEA : player / MC gets the Xenith Astra, and casts down the barriers in the North, West and South (and East?). But the cost for such a ppwerful spell uses up almost all (or all?) of Magic in the continent of Scastant → Allows for more stories past the main continent (which might not be the main continent after all), while not having any issues with only one continent having all these different types of Magic
+IDEA : player / MC gets the Xenith Astra, and casts down the barriers in the North, West and South (and East?). But the cost for such a powerful spell uses up almost all (or all?) of Magic in the continent of Scastant → Allows for more stories past the main continent (which might not be the main continent after all), while not having any issues with only one continent having all these different types of Magic.
+
+IDEA: At some point, Thudius leaves Calden to research something about Magic (the dangers of linking with multiple Frequencies) in the OCeanic Codex (Virdensholm, Homedons). When he comes back, he announces to Calden that the Brantimek Empire led an incursion eastwards and crossed to the other side of the world, attacking Glifs Island and ransacking everything there. This would push the character to actually go to Brantimek and personally seek vengeance. 
+But the report is actually a is fabricated by the Everseen Council, as they've heard of Calden and his magical prowess and ability to somehow link with multiple Nexuses without perishing or visibly scarring the Earth. So, they got their hand on Thudius while he was on his way back to Scastant, and forced him to tell this lie (might be important as a way for the Council to monitor Calden's actions too), as he has the strongest chance of actually making an impact in the War in the East. \[Again, this would show that the Council does terrible things for the sake of the world and the greater good] → idk if Glifs is really destroyed or not. Maybe the Council hopes Calden would not go back to the island to check. But maybe they do actually burn the whole island down to make it look like it was Brantimek. 

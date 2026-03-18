@@ -1,0 +1,4 @@
+---
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/tiondywarm-kingdom/environment/cities-and-towns/emberridge/overview/","tags":["Tiondywarm_Kingdom","Tiondywarm_City2"],"created":"2025-12-30T11:13:30.190+01:00","updated":"2026-01-17T15:03:28.981+01:00"}
+---
+

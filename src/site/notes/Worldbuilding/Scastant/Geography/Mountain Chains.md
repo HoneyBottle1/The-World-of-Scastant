@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/mountain-chains/","tags":["Geographic_Location"],"created":"2025-12-30T13:17:47.424+01:00","updated":"2026-03-09T10:17:52.601+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/mountain-chains/","tags":["Geographic_Location"],"created":"2025-12-30T13:17:47.424+01:00","updated":"2026-03-10T10:43:38.252+01:00"}
 ---
 
 ### Studies Peaks
@@ -45,3 +45,8 @@ Average Length (Mapped): ~ 397 km
 The Vanishing Heights are imposing mountains splitting the north of the [[Worldbuilding/Scastant/Geography/Regions/Brantimek Empire/Brantimek Empire - Overview\|Brantimek Empire]] in half. This range earned its name from the first expeditions over the [[Worldbuilding/Scastant/Geography/Oceans, Seas, and bodies of water#Black Expanse\|Black Expanse]], taking notes of the northern coastlines of the eastern empire. When arriving near the line of mountains, the thick smog being carried from the nearby volcanoes made the mountains look like they were seemingly vanishing into nothingness. The mountains come straight to the coast and continue into the sea. Some also rise above sea levels, creating a jagged and rocky coastline. The area around those underwater mountains is therefore quite dangerous to sail, because of the uneven seabed.
 Average Height: ~ 6,700 m
 Average Length: ~ 453 km
+### Leeview Cliffs
+The Leeview Cliffs are not a mountain chain per say. It is a large continental escarpment, caused by a tectonic fault that caused a block uplift. It spans a huge distance, from the base of the Rothebron Rise, all the way to the shores of the [[Worldbuilding/Scastant/Geography/Oceans, Seas, and bodies of water#Inner Ocean\|Inner Ocean]], going all the way through the [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]]. Its highest point is near a hundred meters tall in the north. Because of the terrain, many rivers flow down from the top of the escarpment to the lowlands, creating many waterfalls. The rock is a deep and beautiful white, that is used as a very expensive and luxurious building material. It is used for temples and government buildings, or for noble houses and manors. As a result of the mining activities, the people of the [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]] have excavated large roads on the sides of the cliffs, snaking up and up to the top. Many wooden staircases and scaffoldings were built along the cliff face too, and the people are now starting to develop elevators that can transports wagons and horses and large carriages. 
+Average Height: ~ 70 m
+Average Length: ~ 899 km
+
