@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-03-10T21:51:15.906+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-03-24T15:25:26.230+01:00"}
 ---
+
 
 # General Overview
 ## Prologue
@@ -19,7 +20,7 @@ Time in this world is much similar to that of our Earth: Time is counted in seco
 
 Time is counted in two important eras: The Before Everseen Era (**BE**), and the Everseen Reckoning Era (**ER**). These two Ages are demarcated by one major event: The creation of the [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/History#The Creation of the Nexuses\|Core Nexus]] by the [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Everseen Council - Overview\|Everseen Council]] (more on this later), represented by Year 0. Time in BE goes down to meet Year 0, while time in ER goes up away from Year 0. 
 
-The current time in this world is 1225 **ER**. If this had to be compared to our world's time, I think it would compared to somewhere around the XVIth or XVIIth century, with some obvious different quirks.
+The current time in this world is 1225 **ER**. If this had to be compared to our world's time, I think it would compared to somewhere around the XVIth or XVIIth century, with some obvious different quirks. For a full timeline of events, see [[Worldbuilding/Scastant/History/Timeline\|here]].
 
 ### Seasons, Months and Calendars
 Seasons are divided in two : The Dark Season and the Light Season. These two divisions are further separated into an Early, Medial, and Late season. Below are documented what months each season would correspond to, using our world's months. 
@@ -41,7 +42,7 @@ This continental plateau is roughly 2,500km in length, and 1,115km in width, its
 On this map can be seen all 13 regions of this continent, along with most of the important points of interests. The scale of this map is 1:4,000,000. This means one centimetre on the map represents 40km in the world.
 For measurements in the Minecraft in-game world, the scale becomes 1:41,600, where one centimetre on the map represents 0.416 thousand blocks in game (or 416 blocks).
 
-This main continent hosts about 35 million people, which represents an average population density of 12.5 people/sq. km. But it is important to note that most of the population lives in small and remote villages in the wilderness. Indeed, only around 11% of the population of Scastant lives in urban centres, while the other 89% is spread unevenly in the rest of the land. This means only around 3.85 million people actually live in the few major cities spread in each region. And even then, the most populous cities rarely surpass 250,000 inhabitants.
+This main continent hosts about 35 million people, which represents an average population density of 12.5 people/sq. km. But it is important to note that most of the population lives in small and remote villages in the wilderness. Indeed, only around 9% of the population of Scastant lives in urban centres, while the other 91% is spread unevenly in the rest of the land. This means only around 3.85 million people actually live in the few major cities spread in each region. And even then, the most populous cities rarely surpass 250,000 inhabitants.
 
 | Region                                                               | <div style="width:53px">Area %</div> | <div style="width:100px">Area (km<sup>2</sup>)</div> | Population | <div style="width:100px">Population %</div> | <div style="width:175px">Population Density (people / sq. km)</div> |
 | -------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------------------- | ---------- | ------------------------------------------- | ------------------------------------------------------------------- |
