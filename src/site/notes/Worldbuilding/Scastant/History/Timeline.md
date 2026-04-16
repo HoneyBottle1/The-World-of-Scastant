@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/history/timeline/","tags":["Event"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-03-24T17:32:59.502+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/history/timeline/","tags":["Event"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-03-27T10:11:20.098+01:00"}
 ---
 
 ### Before Everseen Era:
@@ -34,25 +34,20 @@
 
 - <u>0 ER:</u> The Everseen Council is established as the magical heart of Scastant. The mages create the Core Nexus, a massive reservoir of Magic, in their capital. 
 - <u>7 - 357 ER:</u> Smaller [[Worldbuilding/Scastant/Science & Magic/Magic/Astras & Nexuses\|Nexuses]] are built in each region, granting magic to everyone. During this same period, the [[Worldbuilding/Scastant/Geography/Regions/Brantimek Empire/Brantimek Empire - Overview\|Brantimek Empire]] and [[Worldbuilding/Scastant/Geography/Regions/Ashenval/Ashenval - Overview\|Ashenval]] refuse to be part of the Council's plan, either having other plans, or being too busy fighting each other to partake in diplomacy. 
-- <u>241 ER:</u> A group of individuals from around the world form Wonderbit Co. and settle in the marshes and swamps of [[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Duskenvar - Overview\|Duskenvar]]. As their enterprise grows, they start building towns that will then turn to cities.
+- <u>241 ER:</u> A group of individuals from around the world form the Wonderbit Co. and settle in the marshes and swamps of [[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Duskenvar - Overview\|Duskenvar]]. As their enterprise grows, they start building towns that will then turn to cities.
 - <u>251 ER - Present Days:</u> Astras, powerful stones through which magic can be channelled, start being manufactured, first by the newly-formed Wonderbit Corporation, then by more people across the world. As a way to limit the population's access to more powerful spells, the Everseen Council makes sure each Astra has a limit on how much power can be channelled through them. The most powerful of them are only allowed to be used by the Council and rich/powerful individuals.
 - <u>288 - 435 ER:</u> The Brantimek Empire, thanks to spies in the west of Scastant, start manufacturing Forbidden Astras, which hold no limit on the magical powers being channelled through them. It however takes a very long time for them to develop these Astras, as they lack knowledge, funding and resources. In the end, they could only produce three of them before the Everseen Council launched an attack on the Brantimek Empire. The Council seized 2 of the Astras, the last one remaining with Brantimek's leader.
-- <u>435 ER:</u> The Council finishes writing the first draft of the document that would impose limits and laws on the use of magic in the world, which would be signed by the majority of the time’s powers. This is the document that bans specific spells and qualifies them as Dark Magic. Before then, the laws in order regarding Magic were made by each specific region. 
-
-- <u>467 ER:</u> One of the two Forbidden Astras is thrown out of the cart transporting them into the Inner Ocean, in the hopes of it never being found again. At some point, however, the sentient sea creatures find the Astra and expose it in their Museum of Surface Artifacts.
-
-- <u>498 ER:</u> Explorers from the Tiondywarm Kingdom report sightings of a sunken city in the central lake, but their accounts are dismissed as folklore. 
-* <u>522 ER:</u> The schematics, plans and methods regarding the manufacturing of Astras are leaked all over the world after a dispute between the leaders of the Wonderbit Co.v 
-- <u>579 ER:</u> The sentient sea creatures suddenly disappear without leaving a trace. The mystery of their disappearance will remain unknown for centuries to come.
-
-- <u>601 ER:</u> The Homedonians launch an invasion of Glifs Island but form an uneasy alliance with the islanders after realizing their lack of magic, and the potential of the lands.
-
-- <u>824 ER:</u> The Kingdom of Monaance experiences a golden age, expanding its territory into the southern desertic regions.
-
-- <u>999 ER:</u> The Brantimek Empire begins its conquest of the East. They will be qualified as "dark forces" as part of Everseen's propaganda. The Kingdom of Vangincouisa and Tam Azraine form an alliance to guard the Great Line.
-
-- <u>1001 ER:</u> The rupture of Glifs Island. The Council organizes a plot to shatter the western mainland using forbidden magic, isolating the island. The Core Nexus's connection is severed, leading to the slow decline of magic on the newly-formed island.
-
+- <u>436 ER:</u> One of the two Forbidden Astras being transported back to the Everseen Council is thrown out, into the Inner Ocean, in the hopes of it never being found again. At some point, however, the Thalenvael find the Astra and expose it in their Museum of Surface Artifacts.
+- <u>465 ER:</u> The Council finishes writing the first draft of the document that would impose limits and laws on the use of magic in the world, The Magic Regulation Act. It is signed by the majority of the time’s powers. This is the document that bans specific spells and qualifies them as Dark Magic. Before then, the laws in order regarding Magic were made by each specific region. 
+- <u>498 ER:</u> Explorers from the Tiondywarm Kingdom report sightings of a sunken city in the inland sea, but their accounts are dismissed as folklore. 
+- <u>510 ER:</u> Impenetrable walls are erected all along the northern and southern borders of the Everseen Council. Only a few gates exist 
+* <u>522 ER:</u> The schematics, plans and methods regarding the manufacturing of Astras are leaked all over the world after a dispute between the leaders of the Wonderbit Co. 
+- <u>579 ER:</u> The Thalenvael suddenly disappear without leaving a trace. The mystery of their disappearance will remain unknown for centuries to come.
+- <u>824 ER:</u> The Kingdom of Monaance experiences a golden age, expanding its territory into the southern desertic regions, and especially claiming the great Sandrial Cliffs.
+- <u>828 ER:</u> People explore deep in the Sandrial Cliffs in their quest to find the rumoured hidden temple. In their quest, they form the city of Aljago along the rock walls of the canyon. 
+- <u>999 ER:</u> The Brantimek Empire begins its conquest of the East. They will be qualified as "dark forces" as part of Everseen's propaganda. The Kingdom of Vangincouisa and Azraine form an alliance to guard the Great Line. People from all over the world come to Azraine from the sea and from the Khog Buldar pass to defend the fortifications along the river banks of Vangincouisa, which do not benefit from the natural defences of the Great Line.
+- <u>1001 ER:</u> The rupture of Glifs Island. The Council organizes a plot to shatter the western mainland using forbidden magic, isolating the island. The Core Nexus's connection is severed to the people of Glifs Island, leading to the slow decline of magic on the newly-formed island.
+   
 - <u>1003 ER:</u> The population of Azraine is called to defend the Great Line. In this war effort, they build multiple fortresses along the mountain range, using most of the resources of their old homes.
 
 - <u>1005 ER:</u> The Council closes its borders with the rest of the world in an isolationist policy.

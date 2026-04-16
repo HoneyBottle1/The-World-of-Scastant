@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-03-24T15:25:26.230+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/general-overview/","tags":["General_Overview","gardenEntry"],"created":"2025-12-30T11:01:58.013+01:00","updated":"2026-04-16T01:49:55.550+02:00"}
 ---
 
 
@@ -38,7 +38,28 @@ When Scastant was created, it was first entirely covered in one never-ending oce
 The most well-known and populated part of the world by far is the continental plateau Scastant, named after the world itself. The rest of the dry lands in this world are small and isolated islands. These include the original home of the [[Worldbuilding/Scastant/Geography/Regions/Homedons Northern Islands/Homedons Northern Islands - Overview\|Homedonians]], which had to travel to the continent of Scastant as overpopulation and lack of resources became a major issue.
 This continental plateau is roughly 2,500km in length, and 1,115km in width, its area around 2,787,500km<sup>2</sup>.
 
-![ScastantMainMap.png](/img/user/Worldbuilding/Scastant/ScastantMainMap.png)
+```leaflet
+id: ScastantMainMap
+image:
+- [[ScastantMainMap.png]]
+lock: true
+recenter: true
+noScrollZoom: false
+minZoom: -3
+maxZoom: 1.5
+defaultZoom: -3
+zoomDelta: 0.25
+unit: km
+scale: 0.6083
+bounds: [[0,0], [2516, 4308]]
+height: 2516
+lat: 2154
+long: 1258
+width: 95%
+darkMode: false
+
+```
+
 On this map can be seen all 13 regions of this continent, along with most of the important points of interests. The scale of this map is 1:4,000,000. This means one centimetre on the map represents 40km in the world.
 For measurements in the Minecraft in-game world, the scale becomes 1:41,600, where one centimetre on the map represents 0.416 thousand blocks in game (or 416 blocks).
 

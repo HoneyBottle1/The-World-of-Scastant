@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/weschamian-empire/weschamian-empire-overview/","tags":["Weschamian_Empire","Region_Overview"],"created":"2025-12-30T11:12:41.541+01:00","updated":"2026-03-02T10:29:47.755+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/weschamian-empire/weschamian-empire-overview/","tags":["Weschamian_Empire","Region_Overview"],"created":"2025-12-30T11:12:41.541+01:00","updated":"2026-04-01T14:10:27.312+02:00"}
 ---
 
 Ruler: [[Worldbuilding/Scastant/Stories/Characters/13th Pontiff Odilon\|13th Pontiff Odilon]]
-Type of Government: Ecclesiastical Polity
+Type of Government: [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Government\|Ecclesiastical Polity]]
 Magic Type: [[Worldbuilding/Scastant/Science & Magic/Magic/Types of Magic/Conjuration\|Conjuration]]
 Population: 6,711,000 (19.17% the total population)
 Population Density: 18 people/sq. km
