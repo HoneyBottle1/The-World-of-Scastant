@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/duskenvar/duskenvar-overview/","tags":["Duskenvar","Region_Overview"],"created":"2025-12-30T11:13:36.769+01:00","updated":"2026-03-03T11:36:49.392+01:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/duskenvar/duskenvar-overview/","tags":["Duskenvar","Region_Overview"],"created":"2025-12-30T11:13:36.769+01:00","updated":"2026-06-06T12:51:06.518+02:00"}
 ---
 
 Ruler: 
@@ -9,7 +9,7 @@ Population: 3,314,500 (9.47% the total population)
 Population Density: 30.64 people/sq. km
 Climate / Weather: Temperate climate, with no dry season, hot summers during the Light Season and warm winters during the Dark Season. Rainfall is usual during the Dark Season. The whole region is also usually covered in a thick fog. Near the coasts, the Region is prone to storms, and sometimes even hurricanes, though it is quite rare. 
 Area: ~ 108,155 km<sup>2</sup>
-Borders: ~ 791 km ([[Worldbuilding/Scastant/Geography/Regions/Ashenval/Ashenval - Overview\|Ashenval]]: ~ 71 km | [[Worldbuilding/Scastant/Geography/Regions/Valin Wastes/Valin Wastes - Overview\|Valin Wastes - Overview]]: ~ 227 km | [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]]: ~ 493 km)
+Borders: ~ 791 km ([[Worldbuilding/Scastant/Geography/Regions/Ashenval/Overview - Ashenval\|Ashenval]]: ~ 71 km | [[Worldbuilding/Scastant/Geography/Regions/Valin Wastes/Valin Wastes - Overview\|Valin Wastes - Overview]]: ~ 227 km | [[Worldbuilding/Scastant/Geography/Regions/Thalpras Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]]: ~ 493 km)
 Coastlines: ~ 1341 km
 Water %: 
 Nexus:

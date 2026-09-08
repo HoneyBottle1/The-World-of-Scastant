@@ -6,4 +6,4 @@ Shadow magic manipulates absence, be that of light, certainty, or attention. It 
 
 This type of magic is often used in stealth situations, when the wielder better remain unseen than go in a situation with force alone.
 
-It is Shadow Magic that has allowed the inhabitant of [[Worldbuilding/Scastant/Geography/Regions/Vangincouisa (CHANGE)/Vangincouisa - Overview\|Vangincouisa]] to stay alive, even after the frontlines with the [[Worldbuilding/Scastant/Geography/Regions/Brantimek Empire/Brantimek Empire - Overview\|Brantimek Empire]] were broken through, and their land ravaged by war. 
+It is Shadow Magic that has allowed the inhabitant of [[Worldbuilding/Scastant/Geography/Regions/Usharia/Vangincouisa - Overview\|Vangincouisa]] to stay alive, even after the frontlines with the [[Worldbuilding/Scastant/Geography/Regions/Brantimek Empire/Brantimek Empire - Overview\|Brantimek Empire]] were broken through, and their land ravaged by war. 

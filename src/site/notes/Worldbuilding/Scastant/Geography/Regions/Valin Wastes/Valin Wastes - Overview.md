@@ -9,7 +9,7 @@ Population: 87,500 (0.5% the total population)
 Population Density: 0.62 people/sq. km
 Climate / Weather: Polar climate, with a huge ice cap over the region. Constant and everlasting blizzard. There is no hot season in most of the Region, even during the Light Season. Temperatures rarely go over 0°C, and most of the water stays frozen all year round.
 Area: ~ 141,087 km<sup>2</sup>
-Borders: ~ 1,803 km ([[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Duskenvar - Overview\|Duskenvar]]: ~ 27 km | [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]]: ~ 468 km | [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Weschamian Empire - Overview\|Weschamian Empire]]: ~ 665 km)
+Borders: ~ 1,803 km ([[Worldbuilding/Scastant/Geography/Regions/Duskenvar/Duskenvar - Overview\|Duskenvar]]: ~ 27 km | [[Worldbuilding/Scastant/Geography/Regions/Thalpras Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]]: ~ 468 km | [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Weschamian Empire - Overview\|Weschamian Empire]]: ~ 665 km)
 Coastlines: None
 Water %: 
 Nexus:

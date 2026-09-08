@@ -4,4 +4,4 @@
 
 Illusion reshapes perception, not reality, which makes it more powerful than most arts. A mind that accepts a lie will act upon it faithfully. Dreams are merely illusions the sleeper does not question.
 
-Creating a convincing illusion, however, requires strong mastery of the craft, and only few can maintain such masterpieces for a long time. The masters of this art can be found in the [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]], thought not much is known about the region.
+Creating a convincing illusion, however, requires strong mastery of the craft, and only few can maintain such masterpieces for a long time. The masters of this art can be found in the [[Worldbuilding/Scastant/Geography/Regions/Thalpras Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]], thought not much is known about the region.

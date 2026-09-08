@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/weschamian-empire/weschamian-empire-overview/","tags":["Weschamian_Empire","Region_Overview"],"created":"2025-12-30T11:12:41.541+01:00","updated":"2026-04-01T14:10:27.312+02:00"}
+{"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/weschamian-empire/weschamian-empire-overview/","tags":["Weschamian_Empire","Region_Overview"],"created":"2025-12-30T11:12:41.541+01:00","updated":"2026-05-31T23:04:06.852+02:00"}
 ---
 
 Ruler: [[Worldbuilding/Scastant/Stories/Characters/13th Pontiff Odilon\|13th Pontiff Odilon]]
@@ -9,7 +9,7 @@ Population: 6,711,000 (19.17% the total population)
 Population Density: 18 people/sq. km
 Climate / Weather: Temperate with no dry season, and warm summers. The weather is usually sunny or partially cloudy. During the Dark Season, it snows rains fairly often. Storms and hurricanes are quite rare, though historical records prove it has happened in the past. 
 Area: ~ 372,710 km<sup>2</sup>
-Borders: ~ 2,104 km ([[Worldbuilding/Scastant/Geography/Regions/Gredan Sylvarsen/Gredan Sylvarsen - Overview\|Gredan Sylvarsen]]: ~ 61 km | [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Everseen Council - Overview\|Everseen Council]]: ~ 575 km | [[Worldbuilding/Scastant/Geography/Regions/Tiondywarm Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]]: ~ 666 km | [[Worldbuilding/Scastant/Geography/Regions/Valin Wastes/Valin Wastes - Overview\|Valin Wastes]]: ~ 863 km)
+Borders: ~ 2,104 km ([[Worldbuilding/Scastant/Geography/Regions/Gredan Sylvarsen/Gredan Sylvarsen - Overview\|Gredan Sylvarsen]]: ~ 61 km | [[Worldbuilding/Scastant/Geography/Regions/Everseen Council/Everseen Council - Overview\|Everseen Council]]: ~ 575 km | [[Worldbuilding/Scastant/Geography/Regions/Thalpras Kingdom/Tiondywarm Kingdom - Overview\|Tiondywarm Kingdom]]: ~ 666 km | [[Worldbuilding/Scastant/Geography/Regions/Valin Wastes/Valin Wastes - Overview\|Valin Wastes]]: ~ 863 km)
 Coastline: ~ 1,336 km
 Water %: 
 Nexus:
@@ -19,7 +19,7 @@ Currency:
 Religion : 
 
 
-The main cities in the Weschamian Empire are [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Mythrafeld/Overview\|Mythrafeld]], [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Roeslen/Overview\|Roeslen]], [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Tournon/Overview\|Tournon]], and [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Solmara/Overview\|Solmara]].
+The main cities in the Weschamian Empire are [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Mythrafeld/Overview\|Mythrafeld]], [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Roeslen/Overview\|Roeslen]], [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Turnone/Overview\|Tournon]], and [[Worldbuilding/Scastant/Geography/Regions/Weschamian Empire/Environment/Cities & Towns/Solmara/Overview\|Solmara]].
 The Weschamian Empire is the largest country on the continent of Scastant. Its landscape is that of rolling green hills and valleys, rivers snaking down from the mountains of the [[Worldbuilding/Scastant/Geography/Mountain Chains#Silent Peaks\|Silent Peaks]] and the [[Worldbuilding/Scastant/Geography/Mountain Chains#Casbron Range\|Casbron Range]] to the shores of the [[Worldbuilding/Scastant/Geography/Oceans, Seas, and bodies of water#Inner Ocean\|Inner Ocean]] and the [[Worldbuilding/Scastant/Geography/Oceans, Seas, and bodies of water#Sylvarsen\|Sylvarsen]]. The northernmost reaches of the Empire is covered in snows that never melt, until the unpassable barrier of the north. 
 The country is also home to four major luxuriant woodlands, including the [[Worldbuilding/Scastant/Geography/Forests#Blackrose Covert\|second largest]] forest on the continent, after the [[Worldbuilding/Scastant/Geography/Forests#Gredan Sylvarsen\|Gredan Sylvarsen]]. 
 
