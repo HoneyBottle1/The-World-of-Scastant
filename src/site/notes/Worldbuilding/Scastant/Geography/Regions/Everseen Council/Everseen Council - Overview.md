@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/worldbuilding/scastant/geography/regions/everseen-council/everseen-council-overview/","tags":["Everseen_Council","Region_Overview"],"created":"2025-12-30T11:10:57.682+01:00","updated":"2026-03-04T14:28:14.594+01:00"}
 ---
 
-Ruler: [[Worldbuilding/Scastant/Stories/Characters/High Consul Anurick\|High Consul Anurick]]
+Ruler: [[Worldbuilding/Scastant/Stories/Characters/Everseen Characters/High Consul Anurick\|High Consul Anurick]]
 Government: 
 Magic Type: Confluence of each Magic Type.
 Population: 1,750,000 (5% the total population)
